@@ -19,6 +19,10 @@ The dataset used for training and evaluating the model: https://www.kaggle.com/o
 
 ## Model
 
+![13](https://user-images.githubusercontent.com/91024630/133990855-f2a0e06d-a78b-4f5b-8712-c3b31d4512be.png)
+
+The network itself was implemented using transfer learning. The MobileNet V2 model developed at Google was used as a base model for feature extraction from our data. A custom classification layer was added on top and trained separately. You can learn more about this approach here. The notebook I used to implement the model on Google Colab can be found here.
+
 
 ## Flow Chart :
 
@@ -55,8 +59,6 @@ For this project, the following tools were used:
 
 
 ## Acknoledgement:🎓 <br>
-I am expressing my gratitude towards Sir ![Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) for his super clear explanation about Neural Network in
-![Deep Learning Playlist](https://www.youtube.com/watch?v=DKSZHN7jftI&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) and 
-![Model Deployment Tutorial](https://www.youtube.com/watch?reload=9&reload=9&reload=9&reload=9&v=Ie4-AOpPxBg&list=PLZoTAELRMXVPUyxuK8AphGMuIJHTyuWna)
+I am expressing my gratitude towards Sir Krish Naik for his super clear explanation about Neural Network in Deep Learning Playlist(https://www.youtube.com/watch?v=DKSZHN7jftI&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) and Model Deployment Tutorial(https://www.youtube.com/watch?reload=9&reload=9&reload=9&reload=9&v=Ie4-AOpPxBg&list=PLZoTAELRMXVPUyxuK8AphGMuIJHTyuWna)
 
 
