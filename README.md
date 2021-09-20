@@ -1,4 +1,4 @@
-# Soil-Type-Classification for Crops Suggestion 🌳
+# Soil-Type-Classification And Crop Suggestion 🌳
 
 ## Description
 For this project i have trained a deep learning model with 903 images of four different types soil namely:-
