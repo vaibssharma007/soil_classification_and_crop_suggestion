@@ -62,6 +62,7 @@ For this project, the following tools were used:
 
 ## Accuracy Graph : 
 
+![Screenshot (14)](https://user-images.githubusercontent.com/91024630/133992092-260c185d-c33a-4006-be17-fea5aac0f706.png)
 
 
 ## Acknoledgement:🎓 <br>
