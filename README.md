@@ -24,7 +24,7 @@ The dataset used for training and evaluating the model: https://www.kaggle.com/o
 
 ![13](https://user-images.githubusercontent.com/91024630/133990855-f2a0e06d-a78b-4f5b-8712-c3b31d4512be.png)
 
-The network itself was implemented using transfer learning. The MobileNet V2 model developed at Google was used as a base model for feature extraction from our data. A custom classification layer was added on top and trained separately. You can learn more about this approach here. The notebook I used to implement the model on Google Colab can be found [here](https://github.com/vaibssharma007/soil_classification_and_crop_suggestion/blob/main/Soil-Type-Classification-Soilnet%20(1).ipynb).
+The network itself was implemented using transfer learning. The MobileNet V2 model developed at Google was used as a base model for feature extraction from our data. A custom classification layer was added on top and trained separately. You can learn more about this approach [here](https://www.tensorflow.org/tutorials/images/transfer_learning). The notebook I used to implement the model on Google Colab can be found [here](https://github.com/vaibssharma007/soil_classification_and_crop_suggestion/blob/main/Soil-Type-Classification-Soilnet%20(1).ipynb).
 
 
 ## Flow Chart :
