@@ -7,7 +7,7 @@ For this project i have trained a deep learning model with 903 images of four di
 3. Clay 
 4. Red 
 
-All images are collected from Google Search Engine and crafted and filtered. It also suggests the type of crop we can grow on that particular soil. To implement this webapp we had used Flask (a framework of Python), which uses a convolution neural network on the back end to perform the above classification. Model is deployed on ![Heroku Platform](https://www.heroku.com/).
+All images are collected from Google Search Engine and crafted and filtered. It also suggests the type of crop we can grow on that particular soil. To implement this webapp we had used Flask (a framework of Python), which uses a convolution neural network on the back end to perform the above classification. Model is deployed on Heroku Platform (https://www.heroku.com/).
 
 
 ## Model deployed as Web-Application AP at:📳  <br>
@@ -16,6 +16,9 @@ https://classify-soil-crop-by-vaibhav.herokuapp.com/
 
 ## Dataset available at: 📚 <br>
 The dataset used for training and evaluating the model: https://www.kaggle.com/omkargurav/soil-classification-image-data. The obtained model has achieved 99% accuracy on the test set.
+
+## Model
+
 
 ## Flow Chart :
 
